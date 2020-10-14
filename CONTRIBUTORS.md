@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Shruti Sinha](https://github.com/shrutayyyy)
  - Place: New Delhi, India
- - Bio: Student, curious learner and avid coder
+ - Bio: Student, curious learner and avid coder.
  - GitHub: [shrutayyyy](https://github.com/shrutayyyy)
