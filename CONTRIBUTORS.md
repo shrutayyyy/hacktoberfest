@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Shruti Sinha](https://github.com/shrutayyyy)
+ - Place: New Delhi, India
+ - Bio: Student, curious learner and avid coder
+ - GitHub: [shrutayyyy](https://github.com/shrutayyyy)
